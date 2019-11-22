@@ -11,8 +11,8 @@
         "admin asset url"
     ],
     "support": {
-        "docs": "???",
-        "issues": "???"
+        "docs": "https://github.com/reworkdigital/craftcms-adminasseturl/blob/master/README.md",
+        "issues": "https://github.com/reworkdigital/craftcms-adminasseturl/issues"
     },
     "license": "MIT",
     "authors": [
