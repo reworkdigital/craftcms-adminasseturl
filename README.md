@@ -22,4 +22,4 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Admin Asset URL.
 
-Brought to you by [Rework Digital](www.rework.digital)
+Brought to you by [Rework Digital](https://www.rework.digital)
