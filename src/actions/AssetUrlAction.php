@@ -43,12 +43,6 @@ class AssetUrlAction extends ElementAction
     {
         $type = Json::encode(static::class);
         $prompt = Json::encode(Craft::t('app', '{ctrl}C to copy.'));
-        /** @var string|ElementInterface $elementType */
-        $elementType = $this->elementType;
-
-        if (($refHandle = $elementType::refHandle()) === null) {
-            throw new Exception("Element type \"{$elementType}\" doesn't have a reference handle.");
-        }
 
         $js = <<<EOD
 (function()
