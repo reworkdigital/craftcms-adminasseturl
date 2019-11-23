@@ -2,7 +2,7 @@
     "name": "reworkdigital/admin-asset-url",
     "description": "Displays a 'copy asset url' option in the action dropdown for assets in the admin panel, useful for external linking.",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "keywords": [
         "craft",
         "cms",
